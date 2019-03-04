@@ -1,0 +1,93 @@
+[2019-03-01 16:01:28.664] [sharedprocess] [info] main {"machineId":"9db9866ff20902e30e74c877d81f7178138440806ba92b7406a11137ab83a6c7"}
+[2019-03-01 16:01:28.717] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 16:01:28.726] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 16:01:28.741] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 16:01:28.745] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 16:01:28.816] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 16:01:40.226] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 16:01:40.229] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 16:01:40.241] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 16:01:40.246] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 16:01:40.292] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 16:01:40.296] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 16:01:40.300] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 16:01:58.409] [sharedprocess] [info] Installing extension: hookyqr.ruby-starter
+[2019-03-01 16:01:58.417] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 16:01:58.697] [sharedprocess] [info] Downloaded extension: hookyqr.ruby-starter /tmp/896fbb33-999f-475e-922e-d454130af63b
+[2019-03-01 16:01:58.715] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.hookyqr.ruby-starter-0.0.2: hookyqr.ruby-starter
+[2019-03-01 16:01:58.715] [sharedprocess] [info] Renamed to /root/.vscode/extensions/hookyqr.ruby-starter-0.0.2
+[2019-03-01 16:01:58.715] [sharedprocess] [info] Installation completed. hookyqr.ruby-starter
+[2019-03-01 16:01:58.794] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-01 16:01:58.813] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 16:01:59.006] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2019-03-01 16:01:59.007] [sharedprocess] [info] Installing extension: robertohuertasm.vscode-icons
+[2019-03-01 16:01:59.007] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2019-03-01 16:01:59.008] [sharedprocess] [info] Installing extension: streetsidesoftware.code-spell-checker
+[2019-03-01 16:01:59.008] [sharedprocess] [info] Installing extension: mkaufman.htmlhint
+[2019-03-01 16:01:59.008] [sharedprocess] [info] Installing extension: shardulm94.trailing-spaces
+[2019-03-01 16:01:59.008] [sharedprocess] [info] Installing extension: ryu1kn.partial-diff
+[2019-03-01 16:01:59.009] [sharedprocess] [info] Installing extension: alexkrechik.cucumberautocomplete
+[2019-03-01 16:01:59.009] [sharedprocess] [info] Installing extension: deerawan.vscode-dash
+[2019-03-01 16:01:59.009] [sharedprocess] [info] Installing extension: craigmaslowski.erb
+[2019-03-01 16:01:59.051] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-01 16:01:59.053] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-01 16:01:59.055] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-01 16:01:59.058] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-01 16:01:59.059] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-01 16:01:59.061] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-01 16:01:59.064] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-01 16:01:59.065] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-01 16:01:59.065] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-01 16:01:59.066] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-01 16:01:59.413] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/1ab7e417-f750-425c-9a81-30f5e53627e0
+[2019-03-01 16:01:59.448] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /tmp/6b3ebcac-f5d7-4e2e-9102-e70541f98733
+[2019-03-01 16:01:59.533] [sharedprocess] [info] Downloaded extension: shardulm94.trailing-spaces /tmp/65b76fae-d28f-4e2a-820b-a92138735460
+[2019-03-01 16:01:59.710] [sharedprocess] [info] Downloaded extension: robertohuertasm.vscode-icons /tmp/1ec536cc-edb1-49cb-8a12-84b9e73dd96b
+[2019-03-01 16:01:59.852] [sharedprocess] [info] Downloaded extension: mkaufman.htmlhint /tmp/4331b12f-5737-42b8-a371-984b92e35b58
+[2019-03-01 16:02:00.009] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.shardulm94.trailing-spaces-0.2.11: shardulm94.trailing-spaces
+[2019-03-01 16:02:00.011] [sharedprocess] [info] Renamed to /root/.vscode/extensions/shardulm94.trailing-spaces-0.2.11
+[2019-03-01 16:02:00.014] [sharedprocess] [info] Downloaded extension: craigmaslowski.erb /tmp/e0c6c773-8695-4d29-b381-48741420ed5d
+[2019-03-01 16:02:00.016] [sharedprocess] [info] Installation completed. shardulm94.trailing-spaces
+[2019-03-01 16:02:00.066] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.craigmaslowski.erb-0.0.1: craigmaslowski.erb
+[2019-03-01 16:02:00.066] [sharedprocess] [info] Renamed to /root/.vscode/extensions/craigmaslowski.erb-0.0.1
+[2019-03-01 16:02:00.070] [sharedprocess] [info] Installation completed. craigmaslowski.erb
+[2019-03-01 16:02:00.136] [sharedprocess] [info] Downloaded extension: streetsidesoftware.code-spell-checker /tmp/65ff68c2-c2da-4525-a0bd-79cd67edd9ec
+[2019-03-01 16:02:00.186] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.dbaeumer.vscode-eslint-1.8.0: dbaeumer.vscode-eslint
+[2019-03-01 16:02:00.186] [sharedprocess] [info] Renamed to /root/.vscode/extensions/dbaeumer.vscode-eslint-1.8.0
+[2019-03-01 16:02:00.194] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2019-03-01 16:02:00.233] [sharedprocess] [info] Extensions installed successfully: shardulm94.trailing-spaces
+[2019-03-01 16:02:00.317] [sharedprocess] [info] Extensions installed successfully: craigmaslowski.erb
+[2019-03-01 16:02:00.468] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2019-03-01 16:02:00.495] [sharedprocess] [info] Downloaded extension: ryu1kn.partial-diff /tmp/2823d67b-5827-4ffa-9e69-97126935a7da
+[2019-03-01 16:02:00.631] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.eamodio.gitlens-9.5.1: eamodio.gitlens
+[2019-03-01 16:02:00.631] [sharedprocess] [info] Renamed to /root/.vscode/extensions/eamodio.gitlens-9.5.1
+[2019-03-01 16:02:00.632] [sharedprocess] [info] Downloaded extension: deerawan.vscode-dash /tmp/fbf8fd8e-96a5-402e-9e1e-6054ec378a5b
+[2019-03-01 16:02:00.647] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2019-03-01 16:02:00.727] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2019-03-01 16:02:00.733] [sharedprocess] [info] Downloaded extension: alexkrechik.cucumberautocomplete /tmp/31ef9735-2eca-4c9f-b8b9-d544a0395ba2
+[2019-03-01 16:02:02.009] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ryu1kn.partial-diff-1.4.0: ryu1kn.partial-diff
+[2019-03-01 16:02:02.010] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ryu1kn.partial-diff-1.4.0
+[2019-03-01 16:02:02.011] [sharedprocess] [info] Installation completed. ryu1kn.partial-diff
+[2019-03-01 16:02:02.125] [sharedprocess] [info] Extensions installed successfully: ryu1kn.partial-diff
+[2019-03-01 16:02:03.107] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.deerawan.vscode-dash-2.0.0: deerawan.vscode-dash
+[2019-03-01 16:02:03.109] [sharedprocess] [info] Renamed to /root/.vscode/extensions/deerawan.vscode-dash-2.0.0
+[2019-03-01 16:02:03.112] [sharedprocess] [info] Installation completed. deerawan.vscode-dash
+[2019-03-01 16:02:03.431] [sharedprocess] [info] Extensions installed successfully: deerawan.vscode-dash
+[2019-03-01 16:02:05.313] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.robertohuertasm.vscode-icons-8.2.0: robertohuertasm.vscode-icons
+[2019-03-01 16:02:05.313] [sharedprocess] [info] Renamed to /root/.vscode/extensions/robertohuertasm.vscode-icons-8.2.0
+[2019-03-01 16:02:05.314] [sharedprocess] [info] Installation completed. robertohuertasm.vscode-icons
+[2019-03-01 16:02:05.400] [sharedprocess] [info] Extensions installed successfully: robertohuertasm.vscode-icons
+[2019-03-01 16:02:06.107] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.mkaufman.htmlhint-0.5.0: mkaufman.htmlhint
+[2019-03-01 16:02:06.108] [sharedprocess] [info] Renamed to /root/.vscode/extensions/mkaufman.htmlhint-0.5.0
+[2019-03-01 16:02:06.109] [sharedprocess] [info] Installation completed. mkaufman.htmlhint
+[2019-03-01 16:02:06.129] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.alexkrechik.cucumberautocomplete-2.13.1: alexkrechik.cucumberautocomplete
+[2019-03-01 16:02:06.129] [sharedprocess] [info] Renamed to /root/.vscode/extensions/alexkrechik.cucumberautocomplete-2.13.1
+[2019-03-01 16:02:06.130] [sharedprocess] [info] Installation completed. alexkrechik.cucumberautocomplete
+[2019-03-01 16:02:06.197] [sharedprocess] [info] Extensions installed successfully: mkaufman.htmlhint
+[2019-03-01 16:02:06.218] [sharedprocess] [info] Extensions installed successfully: alexkrechik.cucumberautocomplete
+[2019-03-01 16:02:07.225] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.streetsidesoftware.code-spell-checker-1.6.10: streetsidesoftware.code-spell-checker
+[2019-03-01 16:02:07.225] [sharedprocess] [info] Renamed to /root/.vscode/extensions/streetsidesoftware.code-spell-checker-1.6.10
+[2019-03-01 16:02:07.226] [sharedprocess] [info] Installation completed. streetsidesoftware.code-spell-checker
+[2019-03-01 16:02:07.289] [sharedprocess] [info] Extensions installed successfully: streetsidesoftware.code-spell-checker
+[2019-03-01 16:02:07.291] [sharedprocess] [info] Extensions installed successfully: hookyqr.ruby-starter
+[2019-03-01 16:02:08.668] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,21 @@
+[2019-03-01 15:50:55.020] [sharedprocess] [info] main {"machineId":"9db9866ff20902e30e74c877d81f7178138440806ba92b7406a11137ab83a6c7"}
+[2019-03-01 15:50:55.099] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:50:55.113] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:50:55.115] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:50:55.131] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:50:55.137] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:50:55.141] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:50:55.686] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:50:57.028] [sharedprocess] [info] Installing extension: mikael.angular-beastcode
+[2019-03-01 15:50:57.048] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:50:57.532] [sharedprocess] [info] Downloaded extension: mikael.angular-beastcode /tmp/4b1f8d05-561b-4793-9f26-b13c4b74383a
+[2019-03-01 15:50:57.589] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.mikael.angular-beastcode-7.2.5: mikael.angular-beastcode
+[2019-03-01 15:50:57.589] [sharedprocess] [info] Renamed to /root/.vscode/extensions/mikael.angular-beastcode-7.2.5
+[2019-03-01 15:50:57.590] [sharedprocess] [info] Installation completed. mikael.angular-beastcode
+[2019-03-01 15:50:57.639] [sharedprocess] [info] Extensions installed successfully: mikael.angular-beastcode
+[2019-03-01 15:51:35.031] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-01 15:52:08.217] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:52:08.221] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:52:08.256] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:52:08.261] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:52:10.590] [sharedprocess] [info] Scanned user extensions: 9

@@ -1,0 +1,40 @@
+[2019-03-01 15:50:53.423] [exthost] [info] extension host started
+[2019-03-01 15:50:53.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-03-01 15:50:53.464] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-03-01 15:50:53.466] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-03-01 15:50:53.466] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-03-01 15:50:53.481] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-03-01 15:50:53.481] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-03-01 15:50:53.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-03-01 15:50:53.555] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-03-01 15:50:53.559] [exthost] [info] ExtensionService#_doActivateExtension polymer.polymer-ide {"startup":false,"activationEvent":"onLanguage:plaintext"}
+[2019-03-01 15:50:53.559] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/polymer.polymer-ide-0.6.0/out/src/extension
+[2019-03-01 15:50:53.878] [exthost] [info] eager extensions activated
+[2019-03-01 15:51:01.609] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-03-01 15:51:01.609] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-03-01 15:51:01.616] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-03-01 15:51:01.616] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-03-01 15:51:01.661] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-03-01 15:51:01.661] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-03-01 15:52:08.590] [exthost] [info] extension host started
+[2019-03-01 15:52:08.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-03-01 15:52:08.601] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-03-01 15:52:08.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-03-01 15:52:08.603] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-03-01 15:52:08.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-03-01 15:52:08.615] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-03-01 15:52:08.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-03-01 15:52:08.691] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-03-01 15:52:08.695] [exthost] [info] ExtensionService#_doActivateExtension polymer.polymer-ide {"startup":false,"activationEvent":"onLanguage:plaintext"}
+[2019-03-01 15:52:08.695] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/polymer.polymer-ide-0.6.0/out/src/extension
+[2019-03-01 15:52:08.884] [exthost] [info] eager extensions activated
+[2019-03-01 15:52:18.992] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onDebug"}
+[2019-03-01 15:52:18.992] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/ms-vscode.cpptools-0.21.0/out/src/main
+[2019-03-01 15:52:20.282] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.csharp {"startup":false,"activationEvent":"onDebug"}
+[2019-03-01 15:52:20.282] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/ms-vscode.csharp-1.17.1/out/src/main
+[2019-03-01 15:52:22.643] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"activationEvent":"onDebug"}
+[2019-03-01 15:52:22.644] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/ms-vscode.node-debug2/out/src/extension
+[2019-03-01 15:52:57.418] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug {"startup":false,"activationEvent":"onDebugInitialConfigurations"}
+[2019-03-01 15:52:57.418] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/ms-vscode.node-debug/dist/extension.js
+[2019-03-01 15:52:57.427] [exthost] [info] ExtensionService#_doActivateExtension vsmobile.vscode-react-native {"startup":false,"activationEvent":"onDebug"}
+[2019-03-01 15:52:57.427] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/vsmobile.vscode-react-native-0.8.0/src/extension/rn-extension

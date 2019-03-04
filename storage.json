@@ -1,0 +1,32 @@
+{
+    "telemetry.machineId": "9db9866ff20902e30e74c877d81f7178138440806ba92b7406a11137ab83a6c7",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "/home/gmilczuk",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/gmilczuk/ruby"
+        ],
+        "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/gmilczuk/ruby",
+                "external": "file:///home/gmilczuk/ruby",
+                "path": "/home/gmilczuk/ruby",
+                "scheme": "file"
+            },
+            "backupPath": "/home/gmilczuk/ruby/Backups/e922547e2b7d71c282fa1c10a093c950",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 24,
+                "width": 1920,
+                "height": 1032
+            }
+        }
+    }
+}

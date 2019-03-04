@@ -1,0 +1,8 @@
+[2019-03-01 15:58:38.495] [sharedprocess] [info] main {"machineId":"9db9866ff20902e30e74c877d81f7178138440806ba92b7406a11137ab83a6c7"}
+[2019-03-01 15:58:38.572] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:58:38.575] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:58:38.770] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:58:39.446] [sharedprocess] [info] Deleted from disk ms-vscode.csharp /root/.vscode/extensions/ms-vscode.csharp-1.17.1
+[2019-03-01 15:58:39.521] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:58:39.578] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:59:18.501] [sharedprocess] [info] Starting to clean up unused language packs.

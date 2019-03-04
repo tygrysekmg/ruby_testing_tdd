@@ -1,0 +1,12 @@
+[Warn  - 16:02:01] Error: Invalid URL ../../../root/.vscode/extensions/eamodio.gitlens-9.5.1/welcome.html
+    at PackageUrlResolver.resolve (/root/.vscode/extensions/polymer.polymer-ide-0.6.0/node_modules/polymer-analyzer/lib/url-loader/package-url-resolver.js:47:19)
+    at Analyzer.resolveUrl (/root/.vscode/extensions/polymer.polymer-ide-0.6.0/node_modules/polymer-analyzer/lib/core/analyzer.js:183:34)
+    at Linter.<anonymous> (/root/.vscode/extensions/polymer.polymer-ide-0.6.0/node_modules/polymer-linter/lib/linter.js:84:68)
+    at Generator.next (<anonymous>)
+    at fulfilled (/root/.vscode/extensions/polymer.polymer-ide-0.6.0/node_modules/polymer-linter/lib/linter.js:17:58)
+[Warn  - 16:02:08] Error: Invalid URL ../../../root/.vscode/extensions/eamodio.gitlens-9.5.1/welcome.html
+    at PackageUrlResolver.resolve (/root/.vscode/extensions/polymer.polymer-ide-0.6.0/node_modules/polymer-analyzer/lib/url-loader/package-url-resolver.js:47:19)
+    at Analyzer.resolveUrl (/root/.vscode/extensions/polymer.polymer-ide-0.6.0/node_modules/polymer-analyzer/lib/core/analyzer.js:183:34)
+    at Linter.<anonymous> (/root/.vscode/extensions/polymer.polymer-ide-0.6.0/node_modules/polymer-linter/lib/linter.js:84:68)
+    at Generator.next (<anonymous>)
+    at fulfilled (/root/.vscode/extensions/polymer.polymer-ide-0.6.0/node_modules/polymer-linter/lib/linter.js:17:58)

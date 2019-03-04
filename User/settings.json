@@ -1,0 +1,7 @@
+{
+    "git.ignoreLegacyWarning": true,
+    "workbench.iconTheme": "vscode-icons",
+    "gitlens.advanced.messages": {
+        "suppressGitVersionWarning": true
+    }
+}

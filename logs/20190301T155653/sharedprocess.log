@@ -1,0 +1,29 @@
+[2019-03-01 15:56:57.573] [sharedprocess] [info] main {"machineId":"9db9866ff20902e30e74c877d81f7178138440806ba92b7406a11137ab83a6c7"}
+[2019-03-01 15:56:57.648] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:56:57.661] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:56:57.665] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:56:57.681] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:56:57.685] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:56:57.755] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:57:19.437] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:57:19.437] [sharedprocess] [info] Uninstalling extension: ms-vscode.csharp
+[2019-03-01 15:57:19.445] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-01 15:57:19.480] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode.csharp
+[2019-03-01 15:57:23.980] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:57:23.989] [sharedprocess] [info] Scanned user extensions: 8
+[2019-03-01 15:57:26.405] [sharedprocess] [info] Scanned user extensions: 8
+[2019-03-01 15:57:37.581] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-01 15:57:43.087] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:57:43.088] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:57:43.089] [sharedprocess] [info] Scanned system extensions: 71
+[2019-03-01 15:57:43.090] [sharedprocess] [info] Scanned user extensions: 8
+[2019-03-01 15:57:43.186] [sharedprocess] [info] Scanned user extensions: 8
+[2019-03-01 15:57:43.282] [sharedprocess] [info] Scanned user extensions: 8
+[2019-03-01 15:57:43.478] [sharedprocess] [info] Scanned user extensions: 8
+[2019-03-01 15:57:48.452] [sharedprocess] [info] Installing extension: rebornix.ruby
+[2019-03-01 15:57:48.488] [sharedprocess] [info] Scanned user extensions: 8
+[2019-03-01 15:57:49.346] [sharedprocess] [info] Downloaded extension: rebornix.ruby /tmp/594add7d-7218-48e0-8546-7042d4d1c9e3
+[2019-03-01 15:57:53.283] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.rebornix.ruby-0.22.2: rebornix.ruby
+[2019-03-01 15:57:53.283] [sharedprocess] [info] Renamed to /root/.vscode/extensions/rebornix.ruby-0.22.2
+[2019-03-01 15:57:53.284] [sharedprocess] [info] Installation completed. rebornix.ruby
+[2019-03-01 15:57:53.435] [sharedprocess] [info] Extensions installed successfully: rebornix.ruby

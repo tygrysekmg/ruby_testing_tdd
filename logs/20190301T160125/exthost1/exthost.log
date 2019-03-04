@@ -1,0 +1,42 @@
+[2019-03-01 16:01:26.873] [exthost] [info] extension host started
+[2019-03-01 16:01:26.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-03-01 16:01:26.899] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-03-01 16:01:26.902] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-03-01 16:01:26.902] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-03-01 16:01:26.925] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-03-01 16:01:26.925] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-03-01 16:01:27.030] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-03-01 16:01:27.030] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-03-01 16:01:27.034] [exthost] [info] ExtensionService#_doActivateExtension polymer.polymer-ide {"startup":false,"activationEvent":"onLanguage:plaintext"}
+[2019-03-01 16:01:27.035] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/polymer.polymer-ide-0.6.0/out/src/extension
+[2019-03-01 16:01:27.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-03-01 16:01:27.065] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-03-01 16:01:27.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-03-01 16:01:27.072] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-03-01 16:01:27.129] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-03-01 16:01:27.129] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-03-01 16:01:27.186] [exthost] [info] eager extensions activated
+[2019-03-01 16:01:31.106] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onDebug"}
+[2019-03-01 16:01:31.106] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/ms-vscode.cpptools-0.21.0/out/src/main
+[2019-03-01 16:01:31.218] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"activationEvent":"onDebug"}
+[2019-03-01 16:01:31.218] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/ms-vscode.node-debug2/out/src/extension
+[2019-03-01 16:01:31.233] [exthost] [info] ExtensionService#_doActivateExtension vsmobile.vscode-react-native {"startup":false,"activationEvent":"onDebug"}
+[2019-03-01 16:01:31.233] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/vsmobile.vscode-react-native-0.8.0/src/extension/rn-extension
+[2019-03-01 16:02:00.279] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces {"startup":false,"activationEvent":"*"}
+[2019-03-01 16:02:00.279] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/shardulm94.trailing-spaces-0.2.11/out/src/extension
+[2019-03-01 16:02:00.525] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"activationEvent":"*"}
+[2019-03-01 16:02:00.525] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/dbaeumer.vscode-eslint-1.8.0/client/out/extension
+[2019-03-01 16:02:00.878] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"activationEvent":"*"}
+[2019-03-01 16:02:00.878] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/eamodio.gitlens-9.5.1/dist/extension
+[2019-03-01 16:02:01.172] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-03-01 16:02:01.172] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-03-01 16:02:05.450] [exthost] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":false,"activationEvent":"*"}
+[2019-03-01 16:02:05.450] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/robertohuertasm.vscode-icons-8.2.0/out/src/
+[2019-03-01 16:02:06.245] [exthost] [info] ExtensionService#_doActivateExtension mkaufman.HTMLHint {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-03-01 16:02:06.246] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/mkaufman.htmlhint-0.5.0/out/extension
+[2019-03-01 16:02:06.330] [exthost] [info] ExtensionService#_doActivateExtension alexkrechik.cucumberautocomplete {"startup":false,"activationEvent":"workspaceContains:.vscode/settings.json"}
+[2019-03-01 16:02:06.330] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/alexkrechik.cucumberautocomplete-2.13.1/out/src/extension
+[2019-03-01 16:02:07.422] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":false,"activationEvent":"*"}
+[2019-03-01 16:02:07.422] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/streetsidesoftware.code-spell-checker-1.6.10/out/src/extension
+[2019-03-01 16:02:29.598] [exthost] [info] ExtensionService#_doActivateExtension rebornix.ruby {"startup":false,"activationEvent":"onLanguage:ruby"}
+[2019-03-01 16:02:29.598] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/rebornix.ruby-0.22.2/out/ruby.js
